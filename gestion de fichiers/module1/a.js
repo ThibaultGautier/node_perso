@@ -1,0 +1,1 @@
+console.log("Le fichier a.js a été chargé");
